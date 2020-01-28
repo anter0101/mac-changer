@@ -1,9 +1,7 @@
 # mac-changer
 Usage: mac_changer.py [options]
 
-Options:
-  -h, --help            show this help message and exit
-  -i INTERFACE, --interface=INTERFACE
-                        for enter your interface
-  -m NEW_MAC, --mac=NEW_MAC
-                        for enter your new_mac
+Options
+  -i  or --interface "enter your interface"
+  -m or --mac "enter your new_mac"
+EXAMPLE:-i wlan1 -m 00:22:33:44:55:88
